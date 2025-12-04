@@ -31,7 +31,12 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+*   [ ] **Spec-Driven Content Creation**: Does the plan adhere to the established Spec-Kit Plus requirements?
+*   [ ] **Technical Accuracy**: Have all technical claims and code examples been verified against authoritative sources?
+*   [ ] **Clarity and Accessibility**: Is the language clear, concise, and accessible to the target audience (developers and technical students)?
+*   [ ] **Consistency**: Does the plan maintain a consistent tone, voice, and structure in line with other project documents?
+*   [ ] **Reproducibility**: Are all instructions, code examples, and setup procedures reproducible?
+*   [ ] **AI-Generated Content Review**: Has all AI-generated content been rigorously reviewed for accuracy and correctness?
 
 ## Project Structure
 
