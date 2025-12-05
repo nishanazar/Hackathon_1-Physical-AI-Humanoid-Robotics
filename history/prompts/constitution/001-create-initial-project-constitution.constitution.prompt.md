@@ -6,7 +6,7 @@ date: 2025-12-04
 surface: agent
 model: gemini
 feature: none
-branch: master
+branch: main
 user: DELL
 command: /sp.constitution
 labels: ["constitution", "project-setup"]
